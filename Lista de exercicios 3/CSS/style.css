@@ -1,0 +1,12 @@
+h1{
+    background-color: green;
+    color: white;
+    border-radius: 12px;
+}
+body{
+    background-color: lightblue;
+    background-image: url(https://amplino.org/wp-content/uploads/2019/07/frases-para-instagram.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+}

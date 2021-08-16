@@ -1,0 +1,9 @@
+h1{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color: green;
+    text-transform: capitalize;
+}
